@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tacey</title>
-    <link>https://www.example.com/categories/</link>
+    <link>https://taceywong.github.io/categories/</link>
     <description>Recent content in Categories on Tacey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://taceywong.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Programming</title>
-      <link>https://www.example.com/categories/programming/</link>
+      <link>https://taceywong.github.io/categories/programming/</link>
       <pubDate>Tue, 04 Sep 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.example.com/categories/programming/</guid>
+      <guid>https://taceywong.github.io/categories/programming/</guid>
       <description></description>
     </item>
     
