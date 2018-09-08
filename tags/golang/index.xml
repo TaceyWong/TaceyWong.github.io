@@ -21,5 +21,14 @@
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
+    <item>
+      <title>Golang知识图谱</title>
+      <link>https://taceywong.github.io/post/golang%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</link>
+      <pubDate>Mon, 06 Aug 2018 15:57:11 +0800</pubDate>
+      
+      <guid>https://taceywong.github.io/post/golang%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</guid>
+      <description>原：https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0?from=timeline 百度脑图重制：http://naotu.baidu.com/file/e7fa82e6d3feb9ab3d7e3756cc7a6cd1?token=cb333bf07fb2fddc</description>
+    </item>
+    
   </channel>
 </rss>
