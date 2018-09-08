@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tacey</title>
-    <link>https://taceywong.github.io/</link>
-    <description>Recent content on Tacey</description>
+    <title>科普 on Tacey</title>
+    <link>https://taceywong.github.io/tags/%E7%A7%91%E6%99%AE/</link>
+    <description>Recent content in 科普 on Tacey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Sep 2018 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2015 14:03:54 +0800</lastBuildDate>
     
-	<atom:link href="https://taceywong.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://taceywong.github.io/tags/%E7%A7%91%E6%99%AE/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>测试</title>
-      <link>https://taceywong.github.io/post/linked-post/</link>
-      <pubDate>Tue, 04 Sep 2018 21:49:20 +0200</pubDate>
-      
-      <guid>https://taceywong.github.io/post/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
     
     <item>
       <title>怎样成为一个数据科学家:针对大学毕业生的指导</title>
@@ -55,18 +45,6 @@ IIT的Argamon鼓励刚要从事数据科学的人preserver through这份工作�
 #成为一名数据科学家
 对于很多人来说成为一个数据科学家是一个理想的工作（也许就是你）。Borme说你可以优先记住“作为一个成功的数据科学家，你的每一天都在计算你的幸福——你通过使用数据解决现实世界的问题正生活在你的梦想之中。”他说。
 Borme想起了一个关于Jeffrey Hammerbacher 的Fastcompany故事(http://www.fastcompany.com/3008436/takeaway/why-data-god-jeffreyhammerbacher-left-facebook-found-cloudera)，他是一个天才数据科学家，从Facebook离职去帮助建立Cloudera (http://www.cloudera.com/).“如果你认为你稀缺的技能（数据科学）在其他地方可以得到更好的使用，大胆的离开就行了。”</description>
-    </item>
-    
-    <item>
-      <title>我的简历/My Resume</title>
-      <link>https://taceywong.github.io/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://taceywong.github.io/resume/</guid>
-      <description>姓名:Tacey Wong 年龄： 学校-专业：计算机科学与技术·本科(2012——2016)  主要技能:  语言: Python &amp;gt; Golang &amp;gt; ES6(Javascript)
- 开发:
-  工作经历: 项目经验: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</description>
     </item>
     
   </channel>
