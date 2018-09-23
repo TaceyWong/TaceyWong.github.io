@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://taceywong.github.io/post/linked-post/</loc>
-    <lastmod>2018-09-04T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://taceywong.github.io/post/golang%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</loc>
     <lastmod>2018-08-06T15:57:11+08:00</lastmod>
   </url>
@@ -244,7 +239,7 @@
   
   <url>
     <loc>https://taceywong.github.io/tags/golang/</loc>
-    <lastmod>2018-09-04T21:49:20+02:00</lastmod>
+    <lastmod>2018-08-06T15:57:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,18 +262,6 @@
   </url>
   
   <url>
-    <loc>https://taceywong.github.io/tags/programming/</loc>
-    <lastmod>2018-09-04T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://taceywong.github.io/categories/programming/</loc>
-    <lastmod>2018-09-04T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://taceywong.github.io/tags/python/</loc>
     <lastmod>2018-07-04T19:28:11+08:00</lastmod>
     <priority>0</priority>
@@ -292,7 +275,7 @@
   
   <url>
     <loc>https://taceywong.github.io/tags/</loc>
-    <lastmod>2018-09-04T21:49:20+02:00</lastmod>
+    <lastmod>2018-08-06T15:57:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
