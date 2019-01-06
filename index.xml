@@ -6,19 +6,20 @@
     <description>Recent content on Tacey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Sep 2018 17:39:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 14:35:11 +0800</lastBuildDate>
     
 	<atom:link href="https://taceywong.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Javascript Garden</title>
-      <link>https://taceywong.github.io/post/javascript-garden/</link>
-      <pubDate>Sun, 23 Sep 2018 17:39:03 +0800</pubDate>
+      <title>《编程珠玑(续)》计算机科学箴言</title>
+      <link>https://taceywong.github.io/post/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E7%BB%AD%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%AE%B4%E8%A8%80/</link>
+      <pubDate>Thu, 03 Jan 2019 14:35:11 +0800</pubDate>
       
-      <guid>https://taceywong.github.io/post/javascript-garden/</guid>
-      <description>参考：http://bonsaiden.github.io/JavaScript-Garden/zh/
-主要是搜罗一下ES6-的小知识点</description>
+      <guid>https://taceywong.github.io/post/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E7%BB%AD%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%AE%B4%E8%A8%80/</guid>
+      <description>剽窃即是最诚恳的恭维
+——佚名
+ 编码  如果好没想清楚，就用蛮力算法吧。 不要使用反正弦和反余弦函数——你总能用优美的恒等式，或者是计算向量点积来更好地解决这些问题  测试</description>
     </item>
     
     <item>
@@ -64,6 +65,16 @@ if (!Object.create){ Object.create = function(o){ function F(){} F.prototype = o
 http://bonsaiden.github.io/JavaScript-Garden/zh/ http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html
 封装 http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html
 继承 ES6 面向对象 </description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>https://taceywong.github.io/post/linked-post/</link>
+      <pubDate>Tue, 04 Sep 2018 21:49:20 +0200</pubDate>
+      
+      <guid>https://taceywong.github.io/post/linked-post/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>

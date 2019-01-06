@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tacey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Aug 2018 15:57:11 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://taceywong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Golang</title>
       <link>https://taceywong.github.io/tags/golang/</link>
-      <pubDate>Mon, 06 Aug 2018 15:57:11 +0800</pubDate>
+      <pubDate>Tue, 04 Sep 2018 21:49:20 +0200</pubDate>
       
       <guid>https://taceywong.github.io/tags/golang/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Javascript</title>
       <link>https://taceywong.github.io/tags/javascript/</link>
-      <pubDate>Sun, 23 Sep 2018 17:39:03 +0800</pubDate>
+      <pubDate>Sat, 22 Sep 2018 13:35:28 +0800</pubDate>
       
       <guid>https://taceywong.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://taceywong.github.io/tags/programming/</link>
+      <pubDate>Tue, 04 Sep 2018 21:49:20 +0200</pubDate>
+      
+      <guid>https://taceywong.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
@@ -98,6 +107,15 @@
       <pubDate>Sun, 03 Apr 2016 14:35:11 +0800</pubDate>
       
       <guid>https://taceywong.github.io/tags/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E7%82%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>编程珠玑续</title>
+      <link>https://taceywong.github.io/tags/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E7%BB%AD/</link>
+      <pubDate>Thu, 03 Jan 2019 14:35:11 +0800</pubDate>
+      
+      <guid>https://taceywong.github.io/tags/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E7%BB%AD/</guid>
       <description></description>
     </item>
     
